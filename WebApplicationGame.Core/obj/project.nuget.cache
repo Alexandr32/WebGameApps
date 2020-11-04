@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQGxEvY42M+0YQ6atzqcICNHvW/ndbnKPSqXQUa3q8VU8RolONtakGLIiY72lB1TGRab3D1W0AwVVJxXv4ANeQ==",
+  "success": true,
+  "projectFilePath": "E:\\ALEX\\.net проекты\\WebApplicationGame\\WebApplicationGame.Core\\WebApplicationGame.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

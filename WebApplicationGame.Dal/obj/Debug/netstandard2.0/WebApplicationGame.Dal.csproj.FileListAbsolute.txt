@@ -1,0 +1,9 @@
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\bin\Debug\netstandard2.0\WebApplicationGame.Dal.deps.json
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\bin\Debug\netstandard2.0\WebApplicationGame.Dal.dll
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\bin\Debug\netstandard2.0\WebApplicationGame.Dal.pdb
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.csprojAssemblyReference.cache
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.AssemblyInfoInputs.cache
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.AssemblyInfo.cs
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.dll
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.pdb
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Dal\obj\Debug\netstandard2.0\WebApplicationGame.Dal.csproj.CoreCompileInputs.cache

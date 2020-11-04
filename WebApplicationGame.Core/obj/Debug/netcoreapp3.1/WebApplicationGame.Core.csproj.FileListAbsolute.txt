@@ -1,0 +1,9 @@
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\bin\Debug\netcoreapp3.1\WebApplicationGame.Core.deps.json
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\bin\Debug\netcoreapp3.1\WebApplicationGame.Core.dll
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.csprojAssemblyReference.cache
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.AssemblyInfoInputs.cache
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.AssemblyInfo.cs
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\bin\Debug\netcoreapp3.1\WebApplicationGame.Core.pdb
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.csproj.CoreCompileInputs.cache
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.dll
+E:\ALEX\.net проекты\WebApplicationGame\WebApplicationGame.Core\obj\Debug\netcoreapp3.1\WebApplicationGame.Core.pdb
